@@ -9,7 +9,17 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "gitmoji",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "Misaka-xxw",
+      "name": "Misaka-xxw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110085579?v=4",
+      "profile": "https://www.xmu.edu.cn/",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "linkToUsage": true
 }
