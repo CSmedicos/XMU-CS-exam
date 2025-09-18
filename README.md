@@ -1,15 +1,10 @@
 # XMU-CS-exam 🎓
 
-<div style="display: flex; align-items: center; gap: 10px;">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)]()
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Misaka-xxw/624869fa2abd4a4eaec5277bb3354c89/raw/XMU-CS-exam_clone.json&logo=github)]()
-
 [![GitHub Views](https://views.whatilearened.today/views/github/Misaka-xxw/XMU-CS-exam.svg)]()
-
-</div>
 
 ---
 
