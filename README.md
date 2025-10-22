@@ -14,18 +14,27 @@
 ~~本项目旨在为厦大计科同学提供生存指南~~
 本项目旨在为同学们提供一个共享和交流作业代码、试卷答案的平台，帮助大家共同进步。(๑•̀ㅂ•́)و✧
 
-推荐仓库：
-https://github.com/sunshine-sutingjun/XMU-CS23-Learning-Resources
-https://github.com/yj-w-03/XMU-CS-junior-year
+**推荐仓库** 📚✨：
+
+- 23 级课程资料持续同步，覆盖全部课程，学习资料一网打尽：
+  https://github.com/sunshine-sutingjun/XMU-CS23-Learning-Resources
+
+- 学姐整理的大三年级超全仓库，作业答案与示例代码都很齐全，复习/参考好帮手：
+  https://github.com/yj-w-03/XMU-CS-junior-year
+
+**推荐网站** 📚✨：
+
+- 学长的权威实验报告与学习笔记，涵盖计网、Unix、计算方法等多门课程，内容详实：
+  https://www.cnblogs.com/hankeke303
 
 ---
 
 ## ✏️To do list
 
-- [ ] Unix期中期末试卷及其答案（已完成，未上传）
 - [ ] 汇编原试卷
-- [ ] 计网实验报告
 - [ ] 推荐网址
+- [x] Unix期中期末试卷及其答案
+- [x] 计网实验报告
 
 ## 🤝如何贡献
 
