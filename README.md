@@ -22,6 +22,8 @@
 - 学姐整理的大三年级超全仓库，作业答案与示例代码都很齐全，复习/参考好帮手：
   https://github.com/yj-w-03/XMU-CS-junior-year
 
+- 汇编语言资料库，包括20~22级实验考试真题：https://github.com/wegret/XMU_Assembly
+
 **推荐网站** 📚✨：
 
 - 学长的权威实验报告与学习笔记，涵盖计网、Unix、计算方法等多门课程，内容详实：
