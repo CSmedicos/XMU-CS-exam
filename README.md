@@ -31,6 +31,10 @@
 
 - 推荐网课：重生之我在b站上大学
   https://blog.csdn.net/aaaa_a133/article/details/142899493?spm=1001.2014.3001.5502
+
+- 厦信薪火：厦大信息学子就业经验分享
+  https://ximoffer.cn/
+
 ---
 
 ## ✏️To do list
