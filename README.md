@@ -1,6 +1,7 @@
 # XMU-CS-exam 🎓
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)]()
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Misaka-xxw/624869fa2abd4a4eaec5277bb3354c89/raw/XMU-CS-exam_clone.json&logo=github)]()
@@ -87,6 +88,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/miaodanielwww"><img src="https://avatars.githubusercontent.com/u/175998763?v=4?s=100" width="100px;" alt="miaodanielwww"/><br /><sub><b>miaodanielwww</b></sub></a><br /><a href="#content-miaodanielwww" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cythjyy"><img src="https://avatars.githubusercontent.com/u/153792821?v=4?s=100" width="100px;" alt="cythjyy"/><br /><sub><b>cythjyy</b></sub></a><br /><a href="#content-cythjyy" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Dawn-Brilliance"><img src="https://avatars.githubusercontent.com/u/186166693?v=4?s=100" width="100px;" alt="Dawn-Brilliance"/><br /><sub><b>Dawn-Brilliance</b></sub></a><br /><a href="#content-Dawn-Brilliance" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CSmedicos"><img src="https://avatars.githubusercontent.com/u/147293017?v=4?s=100" width="100px;" alt="CSmedicos"/><br /><sub><b>CSmedicos</b></sub></a><br /><a href="#content-CSmedicos" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>
